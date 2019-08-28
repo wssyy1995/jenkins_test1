@@ -30,6 +30,15 @@ class Baidu(unittest.TestCase):
         print(self.driver.title)
         self.assertEqual(self.driver.title,'jenkins_test2_百度搜索')
 
+    def test_baidu_search3(self):
+
+        self.driver.find_element_by_id('kw').send_keys('jenkins_test3')
+        time.sleep(1)
+        self.driver.find_element_by_id('su').click()
+        time.sleep(1)
+        print(self.driver.title)
+        self.assertEqual(self.driver.title,'jenkins_test2_百度搜索')
+
     def tearDown(self):
         self.driver.quit()
 
