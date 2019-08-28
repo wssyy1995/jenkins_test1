@@ -1,0 +1,546 @@
+1566810245665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.x55qpgd9Y9Ph"
+1566810247542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566810247542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566810247542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566810247542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 69679, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69679, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+1566810250370	Marionette	INFO	Listening on port 55273
+1566810262361	Marionette	INFO	Stopped listening on port 55273
+1566810280771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.u48wh9wXT8T8"
+1566810281297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566810281297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566810281297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566810281297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 390: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+1566810282844	Marionette	INFO	Listening on port 55374
+1566810282931	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 69734, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: resource:///modules/AsyncTabSwitcher.jsm, line 152: TypeError: initialBrowser.frameLoader.remoteTab is null
+JavaScript error: resource:///modules/AsyncTabSwitcher.jsm, line 152: TypeError: initialBrowser.frameLoader.remoteTab is null
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+JavaScript error: resource:///modules/AsyncTabSwitcher.jsm, line 152: TypeError: initialBrowser.frameLoader.remoteTab is null
+JavaScript error: resource:///modules/AsyncTabSwitcher.jsm, line 152: TypeError: initialBrowser.frameLoader.remoteTab is null
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+JavaScript error: chrome://browser/content/browser.js, line 7471: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 4505: TypeError: browser.webProgress is null
+1566810400956	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.aUEDEe69CERf"
+1566810401439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566810401439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566810401439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566810401439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566810403157	Marionette	INFO	Listening on port 55505
+1566810403218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566810470328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.KJMABQA0c6UR"
+1566810470835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566810470836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566810470836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566810470836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566810472586	Marionette	INFO	Listening on port 55578
+1566810472613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566810473677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.0PNn4oFtftVt"
+1566810474135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566810474135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566810474135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566810474135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 70026, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70026, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 390: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+1566810475729	Marionette	INFO	Listening on port 55622
+1566810475737	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 70026, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70026, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://browser/content/browser.js, line 7471: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 4505: TypeError: browser.webProgress is null
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1566810508434	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.X6JepvrvV11Q"
+1566810508866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566810508866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566810508867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566810508867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566810510533	Marionette	INFO	Listening on port 55670
+1566810510602	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1566810569190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.z41Z9L4kITlY"
+1566810569653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566810569653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566810569653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566810569653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566810571358	Marionette	INFO	Listening on port 55775
+1566810571459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566810592320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.K8bFsqyZqmpG"
+1566810617665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.BlU8YBwpbrAq"
+1566810634118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.MCuTTKmjRt6F"
+1566810679549	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.4SKC6apIN111"
+1566810683391	Marionette	INFO	Stopped listening on port 55670
+1566810687724	Marionette	INFO	Stopped listening on port 55505
+1566810689822	Marionette	INFO	Stopped listening on port 55775
+1566810692726	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.PYiGLUepXLMd"
+1566810693238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566810693239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566810693239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566810693239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566810695001	Marionette	INFO	Listening on port 55985
+1566810695096	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561548844810%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1566810997939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.mzAGzEnfoDO1"
+1566810998386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566810998387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566810998387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566810998387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566811000083	Marionette	INFO	Listening on port 56166
+1566811000099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566811001163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.eeVeb7pgiDOF"
+1566811001608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811001609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811001609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811001609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 70627, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70627, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 390: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+1566811003197	Marionette	INFO	Listening on port 56215
+1566811003223	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 70627, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70627, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://browser/content/browser.js, line 7471: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 4505: TypeError: browser.webProgress is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1566811173449	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.veeQh4vNjpfq"
+1566811173940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811173940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811173940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811173940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566811175643	Marionette	INFO	Listening on port 56293
+1566811175699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566811193069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.UC8bsiGBHW1c"
+1566811193518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811193518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811193518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811193518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566811195180	Marionette	INFO	Listening on port 56347
+[Parent 70849, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+1566811195237	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 70849, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1566811213050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.aVrqVFM9tLE7"
+1566811213708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811213708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811213709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811213709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 390: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+1566811215347	Marionette	INFO	Listening on port 56441
+1566811215414	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 70873, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://browser/content/browser.js, line 7471: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 4505: TypeError: browser.webProgress is null
+1566811226940	Marionette	INFO	Stopped listening on port 55985
+1566811229364	Marionette	INFO	Stopped listening on port 56293
+1566811231677	Marionette	INFO	Stopped listening on port 56347
+1566811234666	Marionette	INFO	Stopped listening on port 56441
+1566811236697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.VcpBSHqpQdpm"
+1566811237157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811237157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811237157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811237157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566811238848	Marionette	INFO	Listening on port 56497
+1566811238871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566811301461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.5BY8VSQH3325"
+1566811301912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811301912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811301912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811301912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566811303607	Marionette	INFO	Listening on port 56637
+1566811303617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566811319626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.uDbaPy4kGZU9"
+1566811320076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811320077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811320077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811320077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 71007, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71007, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 390: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+1566811321636	Marionette	INFO	Listening on port 56688
+1566811321694	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 71007, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71007, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: resource:///modules/AsyncTabSwitcher.jsm, line 152: TypeError: initialBrowser.frameLoader.remoteTab is null
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:518:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+Assertion failure
+assert@resource:///modules/AsyncTabSwitcher.jsm:458:36
+preActions@resource:///modules/AsyncTabSwitcher.jsm:519:10
+handleEvent@resource:///modules/AsyncTabSwitcher.jsm:1040:10
+JavaScript error: chrome://browser/content/browser.js, line 7471: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 4505: TypeError: browser.webProgress is null
+1566811330891	Marionette	INFO	Stopped listening on port 56497
+1566811334331	Marionette	INFO	Stopped listening on port 56637
+1566811337351	Marionette	INFO	Stopped listening on port 56688
+1566811342849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.mHU9jPJqvTPo"
+1566811343325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811343326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811343326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811343326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566811345115	Marionette	INFO	Listening on port 56739
+1566811345123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566811389528	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.sbPNdzMRbT2h"
+1566811389977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811389977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811389977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811389977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566811391654	Marionette	INFO	Listening on port 56875
+1566811391697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566811463620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.z3RP4HkQEBwb"
+1566811464104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811464105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811464105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811464105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 390: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+1566811465648	Marionette	INFO	Listening on port 57008
+1566811465685	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 71173, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://browser/content/browser.js, line 7471: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 4505: TypeError: browser.webProgress is null
+1566811474913	Marionette	INFO	Stopped listening on port 56739
+1566811478460	Marionette	INFO	Stopped listening on port 56875
+1566811525353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.ARBn6dNKZPq8"
+1566811525796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811525796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811525797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811525797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566811527491	Marionette	INFO	Listening on port 57064
+1566811527515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566811566896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.mEeBwIKc3n7S"
+1566811567363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566811567363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566811567363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566811567363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1509: TypeError: messageManager is null
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1048: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 390: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 107: TypeError: this._browser.frameLoader.remoteTab is null
+1566811568909	Marionette	INFO	Listening on port 57119
+1566811568960	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 71296, IPC Launch #1] WARNING: Failed to launch tab subprocess: file /builds/worker/workspace/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 606
+1566811578260	Marionette	INFO	Stopped listening on port 57008
+1566811580495	Marionette	INFO	Stopped listening on port 57064
+JavaScript error: chrome://browser/content/browser.js, line 7471: TypeError: browser.messageManager is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 4505: TypeError: browser.webProgress is null
+1566811583493	Marionette	INFO	Stopped listening on port 57119
+1566957226738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/j8/pdg71y7j0dd5psn46vr3m4q40000gn/T/rust_mozprofile.TST45HQd36N8"
+1566957227424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566957227425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566957227425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566957227425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566957229314	Marionette	INFO	Listening on port 49968
+1566957229410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566928461945%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
