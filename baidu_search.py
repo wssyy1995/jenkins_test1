@@ -42,4 +42,3 @@ class Baidu(unittest.TestCase):
     def tearDown(self):
         self.driver.quit()
 
-
