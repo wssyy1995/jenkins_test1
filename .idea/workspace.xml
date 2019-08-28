@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b13ca8ab-b03c-4762-a3f6-9b2c78c8d7bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-08-28 10:03:47.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-08-28 10:07:39.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidu_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/baidu_search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../selenium_autotest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium_autotest/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../selenium_autotest/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:25:57 2019.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../selenium_autotest/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:28:28 2019.html" beforeDir="false" />
@@ -24,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baidu_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="99">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -78,13 +82,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../selenium_autotest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/baidu_search.py" />
         <option value="$PROJECT_DIR$/run_test.py" />
+        <option value="$PROJECT_DIR$/baidu_search.py" />
       </list>
     </option>
   </component>
@@ -130,6 +134,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -209,15 +214,16 @@
       <option name="presentableId" value="Default" />
       <updated>1566796627525</updated>
       <workItem from="1566796629985" duration="5803000" />
-      <workItem from="1566957188818" duration="1244000" />
+      <workItem from="1566957188818" duration="1832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7047000" />
+    <option name="totallyTimeSpent" value="7635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="455" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="455" y="23" width="1440" height="797" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -246,8 +252,8 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/jenkins_test1$baidu_search.coverage" NAME="baidu_search Coverage Results" MODIFIED="1566957762224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/jenkins_test1$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1566957827509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jenkins_test1$baidu_search.coverage" NAME="baidu_search Coverage Results" MODIFIED="1566959023833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jenkins_test1$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1566959028392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/《图解数据结构使用Python》PDF代码+《Python程序设计基础》PDF/《图解数据结构使用Python》PDF代码+《Python程序设计基础》PDF/《图解数据结构 使用Python》范例程序/附录A/ex001.py" />
@@ -283,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baidu_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="99">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
